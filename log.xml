@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2026-11-21T15:05:42.606458Z</date>
-  <millis>1795273542606</millis>
-  <nanos>458000</nanos>
+  <date>2026-11-21T17:23:25.175152Z</date>
+  <millis>1795281805175</millis>
+  <nanos>152000</nanos>
   <sequence>0</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.613817Z</date>
-  <millis>1795273542613</millis>
-  <nanos>817000</nanos>
+  <date>2026-11-21T17:23:25.181027Z</date>
+  <millis>1795281805181</millis>
+  <nanos>27000</nanos>
   <sequence>1</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>Before executing methode: void com.bank.metier.IMetierImpl.addAccount(Account)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.614393Z</date>
-  <millis>1795273542614</millis>
-  <nanos>393000</nanos>
+  <date>2026-11-21T17:23:25.181283Z</date>
+  <millis>1795281805181</millis>
+  <nanos>283000</nanos>
   <sequence>2</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -38,9 +38,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.614664Z</date>
-  <millis>1795273542614</millis>
-  <nanos>664000</nanos>
+  <date>2026-11-21T17:23:25.181472Z</date>
+  <millis>1795281805181</millis>
+  <nanos>472000</nanos>
   <sequence>3</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -50,9 +50,9 @@
   <message>Before executing methode: Long com.bank.metier.Account.getCode()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.614890Z</date>
-  <millis>1795273542614</millis>
-  <nanos>890000</nanos>
+  <date>2026-11-21T17:23:25.181673Z</date>
+  <millis>1795281805181</millis>
+  <nanos>673000</nanos>
   <sequence>4</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -62,9 +62,9 @@
   <message>After method execution: Long com.bank.metier.Account.getCode()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.615719Z</date>
-  <millis>1795273542615</millis>
-  <nanos>719000</nanos>
+  <date>2026-11-21T17:23:25.182617Z</date>
+  <millis>1795281805182</millis>
+  <nanos>617000</nanos>
   <sequence>5</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -74,9 +74,9 @@
   <message>Time execution of the method: 0 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.616282Z</date>
-  <millis>1795273542616</millis>
-  <nanos>282000</nanos>
+  <date>2026-11-21T17:23:25.183212Z</date>
+  <millis>1795281805183</millis>
+  <nanos>212000</nanos>
   <sequence>6</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -86,9 +86,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.616443Z</date>
-  <millis>1795273542616</millis>
-  <nanos>443000</nanos>
+  <date>2026-11-21T17:23:25.183387Z</date>
+  <millis>1795281805183</millis>
+  <nanos>387000</nanos>
   <sequence>7</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -98,21 +98,21 @@
   <message>After method execution: void com.bank.metier.IMetierImpl.addAccount(Account)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.616628Z</date>
-  <millis>1795273542616</millis>
-  <nanos>628000</nanos>
+  <date>2026-11-21T17:23:25.183540Z</date>
+  <millis>1795281805183</millis>
+  <nanos>540000</nanos>
   <sequence>8</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
   <method>logExecution</method>
   <thread>3</thread>
-  <message>Time execution of the method: 10 ms</message>
+  <message>Time execution of the method: 8 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.616787Z</date>
-  <millis>1795273542616</millis>
-  <nanos>787000</nanos>
+  <date>2026-11-21T17:23:25.183711Z</date>
+  <millis>1795281805183</millis>
+  <nanos>711000</nanos>
   <sequence>9</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -122,9 +122,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.616941Z</date>
-  <millis>1795273542616</millis>
-  <nanos>941000</nanos>
+  <date>2026-11-21T17:23:25.183862Z</date>
+  <millis>1795281805183</millis>
+  <nanos>862000</nanos>
   <sequence>10</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -134,9 +134,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.617092Z</date>
-  <millis>1795273542617</millis>
-  <nanos>92000</nanos>
+  <date>2026-11-21T17:23:25.184048Z</date>
+  <millis>1795281805184</millis>
+  <nanos>48000</nanos>
   <sequence>11</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -146,9 +146,9 @@
   <message>Before executing methode: void com.bank.metier.IMetierImpl.addAccount(Account)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.617247Z</date>
-  <millis>1795273542617</millis>
-  <nanos>247000</nanos>
+  <date>2026-11-21T17:23:25.184217Z</date>
+  <millis>1795281805184</millis>
+  <nanos>217000</nanos>
   <sequence>12</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -158,9 +158,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.617376Z</date>
-  <millis>1795273542617</millis>
-  <nanos>376000</nanos>
+  <date>2026-11-21T17:23:25.184349Z</date>
+  <millis>1795281805184</millis>
+  <nanos>349000</nanos>
   <sequence>13</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -170,9 +170,9 @@
   <message>Before executing methode: Long com.bank.metier.Account.getCode()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.617515Z</date>
-  <millis>1795273542617</millis>
-  <nanos>515000</nanos>
+  <date>2026-11-21T17:23:25.184496Z</date>
+  <millis>1795281805184</millis>
+  <nanos>496000</nanos>
   <sequence>14</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -182,9 +182,9 @@
   <message>After method execution: Long com.bank.metier.Account.getCode()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.617651Z</date>
-  <millis>1795273542617</millis>
-  <nanos>651000</nanos>
+  <date>2026-11-21T17:23:25.184668Z</date>
+  <millis>1795281805184</millis>
+  <nanos>668000</nanos>
   <sequence>15</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -194,9 +194,9 @@
   <message>Time execution of the method: 0 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.617776Z</date>
-  <millis>1795273542617</millis>
-  <nanos>776000</nanos>
+  <date>2026-11-21T17:23:25.184868Z</date>
+  <millis>1795281805184</millis>
+  <nanos>868000</nanos>
   <sequence>16</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -206,9 +206,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.617903Z</date>
-  <millis>1795273542617</millis>
-  <nanos>903000</nanos>
+  <date>2026-11-21T17:23:25.185028Z</date>
+  <millis>1795281805185</millis>
+  <nanos>28000</nanos>
   <sequence>17</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -218,9 +218,9 @@
   <message>After method execution: void com.bank.metier.IMetierImpl.addAccount(Account)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.618033Z</date>
-  <millis>1795273542618</millis>
-  <nanos>33000</nanos>
+  <date>2026-11-21T17:23:25.185239Z</date>
+  <millis>1795281805185</millis>
+  <nanos>239000</nanos>
   <sequence>18</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -230,9 +230,9 @@
   <message>Time execution of the method: 1 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.618166Z</date>
-  <millis>1795273542618</millis>
-  <nanos>166000</nanos>
+  <date>2026-11-21T17:23:25.185374Z</date>
+  <millis>1795281805185</millis>
+  <nanos>374000</nanos>
   <sequence>19</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -242,9 +242,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.618633Z</date>
-  <millis>1795273542618</millis>
-  <nanos>633000</nanos>
+  <date>2026-11-21T17:23:25.185797Z</date>
+  <millis>1795281805185</millis>
+  <nanos>797000</nanos>
   <sequence>20</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -254,9 +254,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.618791Z</date>
-  <millis>1795273542618</millis>
-  <nanos>791000</nanos>
+  <date>2026-11-21T17:23:25.185956Z</date>
+  <millis>1795281805185</millis>
+  <nanos>956000</nanos>
   <sequence>21</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -266,9 +266,9 @@
   <message>Before executing methode: void com.bank.metier.IMetierImpl.verser(Long, double)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.618964Z</date>
-  <millis>1795273542618</millis>
-  <nanos>964000</nanos>
+  <date>2026-11-21T17:23:25.186136Z</date>
+  <millis>1795281805186</millis>
+  <nanos>136000</nanos>
   <sequence>22</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -278,9 +278,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.619142Z</date>
-  <millis>1795273542619</millis>
-  <nanos>142000</nanos>
+  <date>2026-11-21T17:23:25.186265Z</date>
+  <millis>1795281805186</millis>
+  <nanos>265000</nanos>
   <sequence>23</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -290,9 +290,9 @@
   <message>Before executing methode: double com.bank.metier.Account.getSolde()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.619314Z</date>
-  <millis>1795273542619</millis>
-  <nanos>314000</nanos>
+  <date>2026-11-21T17:23:25.186693Z</date>
+  <millis>1795281805186</millis>
+  <nanos>693000</nanos>
   <sequence>24</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -302,9 +302,9 @@
   <message>After method execution: double com.bank.metier.Account.getSolde()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.619451Z</date>
-  <millis>1795273542619</millis>
-  <nanos>451000</nanos>
+  <date>2026-11-21T17:23:25.186856Z</date>
+  <millis>1795281805186</millis>
+  <nanos>856000</nanos>
   <sequence>25</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -314,9 +314,9 @@
   <message>Time execution of the method: 0 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.619572Z</date>
-  <millis>1795273542619</millis>
-  <nanos>572000</nanos>
+  <date>2026-11-21T17:23:25.186986Z</date>
+  <millis>1795281805186</millis>
+  <nanos>986000</nanos>
   <sequence>26</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -326,9 +326,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.619703Z</date>
-  <millis>1795273542619</millis>
-  <nanos>703000</nanos>
+  <date>2026-11-21T17:23:25.187134Z</date>
+  <millis>1795281805187</millis>
+  <nanos>134000</nanos>
   <sequence>27</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -338,9 +338,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.619828Z</date>
-  <millis>1795273542619</millis>
-  <nanos>828000</nanos>
+  <date>2026-11-21T17:23:25.187263Z</date>
+  <millis>1795281805187</millis>
+  <nanos>263000</nanos>
   <sequence>28</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -350,9 +350,9 @@
   <message>Before executing methode: void com.bank.metier.Account.setSolde(double)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.619970Z</date>
-  <millis>1795273542619</millis>
-  <nanos>970000</nanos>
+  <date>2026-11-21T17:23:25.187392Z</date>
+  <millis>1795281805187</millis>
+  <nanos>392000</nanos>
   <sequence>29</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -362,9 +362,9 @@
   <message>After method execution: void com.bank.metier.Account.setSolde(double)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.620112Z</date>
-  <millis>1795273542620</millis>
-  <nanos>112000</nanos>
+  <date>2026-11-21T17:23:25.187539Z</date>
+  <millis>1795281805187</millis>
+  <nanos>539000</nanos>
   <sequence>30</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -374,9 +374,9 @@
   <message>Time execution of the method: 0 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.620245Z</date>
-  <millis>1795273542620</millis>
-  <nanos>245000</nanos>
+  <date>2026-11-21T17:23:25.187654Z</date>
+  <millis>1795281805187</millis>
+  <nanos>654000</nanos>
   <sequence>31</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -386,9 +386,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.620379Z</date>
-  <millis>1795273542620</millis>
-  <nanos>379000</nanos>
+  <date>2026-11-21T17:23:25.187785Z</date>
+  <millis>1795281805187</millis>
+  <nanos>785000</nanos>
   <sequence>32</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -398,21 +398,21 @@
   <message>After method execution: void com.bank.metier.IMetierImpl.verser(Long, double)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.620497Z</date>
-  <millis>1795273542620</millis>
-  <nanos>497000</nanos>
+  <date>2026-11-21T17:23:25.187907Z</date>
+  <millis>1795281805187</millis>
+  <nanos>907000</nanos>
   <sequence>33</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
   <method>logExecution</method>
   <thread>3</thread>
-  <message>Time execution of the method: 1 ms</message>
+  <message>Time execution of the method: 2 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.620614Z</date>
-  <millis>1795273542620</millis>
-  <nanos>614000</nanos>
+  <date>2026-11-21T17:23:25.188021Z</date>
+  <millis>1795281805188</millis>
+  <nanos>21000</nanos>
   <sequence>34</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -422,9 +422,9 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.620758Z</date>
-  <millis>1795273542620</millis>
-  <nanos>758000</nanos>
+  <date>2026-11-21T17:23:25.188408Z</date>
+  <millis>1795281805188</millis>
+  <nanos>408000</nanos>
   <sequence>35</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -434,22 +434,46 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.620888Z</date>
-  <millis>1795273542620</millis>
-  <nanos>888000</nanos>
+  <date>2026-11-21T17:23:25.188549Z</date>
+  <millis>1795281805188</millis>
+  <nanos>549000</nanos>
   <sequence>36</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
   <method>logExecution</method>
   <thread>3</thread>
-  <message>Before executing methode: void com.bank.metier.IMetierImpl.retirer(Long, double)</message>
+  <message>Before executing methode: Account com.bank.metier.IMetierImpl.getAccount(Long)</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.621023Z</date>
-  <millis>1795273542621</millis>
-  <nanos>23000</nanos>
+  <date>2026-11-21T17:23:25.188688Z</date>
+  <millis>1795281805188</millis>
+  <nanos>688000</nanos>
   <sequence>37</sequence>
+  <logger>com.bank.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.bank.aspects.LoggingAspect</class>
+  <method>logExecution</method>
+  <thread>3</thread>
+  <message>After method execution: Account com.bank.metier.IMetierImpl.getAccount(Long)</message>
+</record>
+<record>
+  <date>2026-11-21T17:23:25.188808Z</date>
+  <millis>1795281805188</millis>
+  <nanos>808000</nanos>
+  <sequence>38</sequence>
+  <logger>com.bank.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.bank.aspects.LoggingAspect</class>
+  <method>logExecution</method>
+  <thread>3</thread>
+  <message>Time execution of the method: 0 ms</message>
+</record>
+<record>
+  <date>2026-11-21T17:23:25.188919Z</date>
+  <millis>1795281805188</millis>
+  <nanos>919000</nanos>
+  <sequence>39</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
@@ -458,10 +482,22 @@
   <message>-----------------------</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.621137Z</date>
-  <millis>1795273542621</millis>
-  <nanos>137000</nanos>
-  <sequence>38</sequence>
+  <date>2026-11-21T17:23:25.189027Z</date>
+  <millis>1795281805189</millis>
+  <nanos>27000</nanos>
+  <sequence>40</sequence>
+  <logger>com.bank.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.bank.aspects.LoggingAspect</class>
+  <method>logExecution</method>
+  <thread>3</thread>
+  <message>-----------------------</message>
+</record>
+<record>
+  <date>2026-11-21T17:23:25.189139Z</date>
+  <millis>1795281805189</millis>
+  <nanos>139000</nanos>
+  <sequence>41</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
@@ -470,10 +506,10 @@
   <message>Before executing methode: double com.bank.metier.Account.getSolde()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.621313Z</date>
-  <millis>1795273542621</millis>
-  <nanos>313000</nanos>
-  <sequence>39</sequence>
+  <date>2026-11-21T17:23:25.189249Z</date>
+  <millis>1795281805189</millis>
+  <nanos>249000</nanos>
+  <sequence>42</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
@@ -482,358 +518,22 @@
   <message>After method execution: double com.bank.metier.Account.getSolde()</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.621472Z</date>
-  <millis>1795273542621</millis>
-  <nanos>472000</nanos>
-  <sequence>40</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Time execution of the method: 0 ms</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.621600Z</date>
-  <millis>1795273542621</millis>
-  <nanos>600000</nanos>
-  <sequence>41</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.621716Z</date>
-  <millis>1795273542621</millis>
-  <nanos>716000</nanos>
-  <sequence>42</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.621849Z</date>
-  <millis>1795273542621</millis>
-  <nanos>849000</nanos>
+  <date>2026-11-21T17:23:25.189377Z</date>
+  <millis>1795281805189</millis>
+  <nanos>377000</nanos>
   <sequence>43</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
   <method>logExecution</method>
   <thread>3</thread>
-  <message>Before executing methode: void com.bank.metier.Account.setSolde(double)</message>
+  <message>Time execution of the method: 0 ms</message>
 </record>
 <record>
-  <date>2026-11-21T15:05:42.621972Z</date>
-  <millis>1795273542621</millis>
-  <nanos>972000</nanos>
+  <date>2026-11-21T17:23:25.189486Z</date>
+  <millis>1795281805189</millis>
+  <nanos>486000</nanos>
   <sequence>44</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>After method execution: void com.bank.metier.Account.setSolde(double)</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.622102Z</date>
-  <millis>1795273542622</millis>
-  <nanos>102000</nanos>
-  <sequence>45</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Time execution of the method: 0 ms</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.622217Z</date>
-  <millis>1795273542622</millis>
-  <nanos>217000</nanos>
-  <sequence>46</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.622342Z</date>
-  <millis>1795273542622</millis>
-  <nanos>342000</nanos>
-  <sequence>47</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>After method execution: void com.bank.metier.IMetierImpl.retirer(Long, double)</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.622463Z</date>
-  <millis>1795273542622</millis>
-  <nanos>463000</nanos>
-  <sequence>48</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Time execution of the method: 1 ms</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.622569Z</date>
-  <millis>1795273542622</millis>
-  <nanos>569000</nanos>
-  <sequence>49</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.622762Z</date>
-  <millis>1795273542622</millis>
-  <nanos>762000</nanos>
-  <sequence>50</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.623189Z</date>
-  <millis>1795273542623</millis>
-  <nanos>189000</nanos>
-  <sequence>51</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Before executing methode: Account com.bank.metier.IMetierImpl.getAccount(Long)</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.623462Z</date>
-  <millis>1795273542623</millis>
-  <nanos>462000</nanos>
-  <sequence>52</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>After method execution: Account com.bank.metier.IMetierImpl.getAccount(Long)</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.623761Z</date>
-  <millis>1795273542623</millis>
-  <nanos>761000</nanos>
-  <sequence>53</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Time execution of the method: 1 ms</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.624101Z</date>
-  <millis>1795273542624</millis>
-  <nanos>101000</nanos>
-  <sequence>54</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.624423Z</date>
-  <millis>1795273542624</millis>
-  <nanos>423000</nanos>
-  <sequence>55</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.624569Z</date>
-  <millis>1795273542624</millis>
-  <nanos>569000</nanos>
-  <sequence>56</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Before executing methode: String com.bank.metier.Account.toString()</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.626093Z</date>
-  <millis>1795273542626</millis>
-  <nanos>93000</nanos>
-  <sequence>57</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>After method execution: String com.bank.metier.Account.toString()</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.626277Z</date>
-  <millis>1795273542626</millis>
-  <nanos>277000</nanos>
-  <sequence>58</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Time execution of the method: 1 ms</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.626627Z</date>
-  <millis>1795273542626</millis>
-  <nanos>627000</nanos>
-  <sequence>59</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.627041Z</date>
-  <millis>1795273542627</millis>
-  <nanos>41000</nanos>
-  <sequence>60</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.627287Z</date>
-  <millis>1795273542627</millis>
-  <nanos>287000</nanos>
-  <sequence>61</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Before executing methode: Account com.bank.metier.IMetierImpl.getAccount(Long)</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.627557Z</date>
-  <millis>1795273542627</millis>
-  <nanos>557000</nanos>
-  <sequence>62</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>After method execution: Account com.bank.metier.IMetierImpl.getAccount(Long)</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.627732Z</date>
-  <millis>1795273542627</millis>
-  <nanos>732000</nanos>
-  <sequence>63</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Time execution of the method: 0 ms</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.627893Z</date>
-  <millis>1795273542627</millis>
-  <nanos>893000</nanos>
-  <sequence>64</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.627983Z</date>
-  <millis>1795273542627</millis>
-  <nanos>983000</nanos>
-  <sequence>65</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>-----------------------</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.628067Z</date>
-  <millis>1795273542628</millis>
-  <nanos>67000</nanos>
-  <sequence>66</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Before executing methode: String com.bank.metier.Account.toString()</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.628165Z</date>
-  <millis>1795273542628</millis>
-  <nanos>165000</nanos>
-  <sequence>67</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>After method execution: String com.bank.metier.Account.toString()</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.628247Z</date>
-  <millis>1795273542628</millis>
-  <nanos>247000</nanos>
-  <sequence>68</sequence>
-  <logger>com.bank.aspects.LoggingAspect</logger>
-  <level>INFO</level>
-  <class>com.bank.aspects.LoggingAspect</class>
-  <method>logExecution</method>
-  <thread>3</thread>
-  <message>Time execution of the method: 0 ms</message>
-</record>
-<record>
-  <date>2026-11-21T15:05:42.628325Z</date>
-  <millis>1795273542628</millis>
-  <nanos>325000</nanos>
-  <sequence>69</sequence>
   <logger>com.bank.aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>com.bank.aspects.LoggingAspect</class>
